@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: chicken-disease-classifier
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: ENABLE_TRAIN
+        value: "0"
