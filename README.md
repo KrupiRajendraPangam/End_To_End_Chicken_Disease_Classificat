@@ -2,8 +2,7 @@
 
 End-to-end CNN web app that classifies chicken fecal images as **Healthy** or **Coccidiosis**.
 
-**Live Demo:** *Add your Render URL here after deploy*  
-*(Example: `https://chicken-disease-classifier.onrender.com`)*
+**Live Demo:** [https://end-to-end-chicken-disease-classificat.onrender.com/](https://end-to-end-chicken-disease-classificat.onrender.com/)
 
 **Tech stack:** TensorFlow/Keras · Flask · Docker · Render · DVC-ready ML pipeline
 
